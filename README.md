@@ -1,4 +1,4 @@
-# ICASSP2020-demo
+# Odyssey2020-demo
 
 __"Parallel-data-free Emotional Voice Conversion with CycleGAN and Continuous Wavelet Transform"__,
 
